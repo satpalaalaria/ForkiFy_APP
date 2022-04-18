@@ -14,7 +14,7 @@
 84C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\source-map\lib\binary-search.js131369414910000000 0
 73C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@parcel\packager-raw132947465589499329 1
 90C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\stable\string\virtual\bold.js121436361000000000 0
-52C:\Users\navid\OneDrive\Desktop\ForkiFy\package.json132947465604279302 0
+52C:\Users\navid\OneDrive\Desktop\ForkiFy\package.json132947513007264476 0
 92C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\proposals\regexp-dotall-flag.js121436361000000000 0
 84C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\caniuse-lite\data\regions\TW.js121436361000000000 0
 89C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\css-tree\lib\syntax\node\Brackets.js121436361000000000 0
@@ -28,7 +28,7 @@
 103C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\dom-serializer\node_modules\entities\lib\decode.js121436361000000000 0
 65C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\yaml\util.js121436361000000000 0
 98C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\features\typed-array\last-index-of.js121436361000000000 0
-57C:\Users\navid\OneDrive\Desktop\ForkiFy\package-lock.json132947465604686494 0
+57C:\Users\navid\OneDrive\Desktop\ForkiFy\package-lock.json132947512893680722 0
 79C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\css-tree\lib\syntax\pseudo132947465468062572 1
 95C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\modules\esnext.math.rad-per-deg.js121436361000000000 0
 91C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\internals\array-to-reversed.js121436361000000000 0
@@ -37,7 +37,7 @@
 98C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\caniuse-lite\data\features\rest-parameters.js121436361000000000 0
 88C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\actual\string\trim-right.js121436361000000000 0
 84C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\cosmiconfig\dist\loaders.js.map121436361000000000 0
-44C:\Users\navid\OneDrive\Desktop\ForkiFy\dist132947475968390022 1
+44C:\Users\navid\OneDrive\Desktop\ForkiFy\dist132947583960004941 1
 87C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\features\date\to-string.js121436361000000000 0
 79C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\full\symbol\for.js121436361000000000 0
 91C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\full\string\virtual\italics.js121436361000000000 0
@@ -69,7 +69,7 @@
 88C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\features\weak-map\upsert.js121436361000000000 0
 68C:\Users\navid\OneDrive\Desktop\ForkiFy\forkify-flowchart-part-2.png132925899963221652 0
 84C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\full\array\to-sorted.js121436361000000000 0
-52C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules132947465603481408 1
+52C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules132947512892582628 1
 94C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\caniuse-lite\data\features\css3-colors.js121436361000000000 0
 83C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\node-addon-api\tools\README.md121436361000000000 0
 96C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\csso\lib\restructure\4-restructShorthand.js121436361000000000 0
@@ -183,7 +183,7 @@
 58C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\acorn132947465587605114 1
 82C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\nan\nan_typedarray_contents.h132319691640000000 0
 102C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\caniuse-lite\data\features\requestidlecallback.js121436361000000000 0
-76C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\fractional\package.json132947465588032284 0
+76C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\fractional\package.json132947512892108224 0
 57C:\Users\navid\OneDrive\Desktop\ForkiFy\src\img\icons.svg132925899963311420 0
 85C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\modules\es.array.find.js121436361000000000 0
 77C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@parcel\resolver-default132947465589448139 1
@@ -239,7 +239,7 @@
 96C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\stable\string\virtual\trim-start.js121436361000000000 0
 62C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@trysound132947465577847753 1
 97C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\features\array\virtual\filter-out.js121436361000000000 0
-60C:\Users\navid\OneDrive\Desktop\ForkiFy\src\js\controller.js132946080838727070 0
+60C:\Users\navid\OneDrive\Desktop\ForkiFy\src\js\controller.js132947552839615369 0
 88C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\es\array\virtual\entries.js121436361000000000 0
 79C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\nth-check\lib\compile.d.ts121436361000000000 0
 97C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js121436361000000000 0
@@ -326,14 +326,14 @@
 97C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\full\typed-array\to-locale-string.js121436361000000000 0
 104C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@parcel\workers\test\integration\workerfarm\ping.js121436361000000000 0
 61C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\anymatch132947465592165839 1
-72C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\fractional\releases132947465405761142 1
-60C:\Users\navid\OneDrive\Desktop\ForkiFy\src\js\views\View.js132943209978049171 0
+72C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\fractional\releases132947512888083969 1
+60C:\Users\navid\OneDrive\Desktop\ForkiFy\src\js\views\View.js132947552816005797 0
 86C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\stable\error\to-string.js121436361000000000 0
 101C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\lmdb\prebuilds\linux-arm64\node.abi102.musl.node121436361000000000 0
 113C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json121436361000000000 0
 89C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\es\array\virtual\flat-map.js121436361000000000 0
 59C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@babel132947465579526495 1
-60C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@parcel132947465603471536 1
+60C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@parcel132947512892582628 1
 74C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\yaml\browser\types.js121436361000000000 0
 71C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\chrome-trace-event132947465587453491 1
 76C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\braces\lib\constants.js121436361000000000 0
@@ -519,7 +519,7 @@
 61C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\htmlnano132947465588550544 1
 89C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\caniuse-lite\data\features\srcset.js121436361000000000 0
 75C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\css-tree\data\index.js121436361000000000 0
-63C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\fractional132947465588500677 1
+63C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\fractional132947512892173746 1
 89C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\features\number\parse-int.js121436361000000000 0
 100C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\lmdb\prebuilds\darwin-x64\node.abi72.glibc.node121436361000000000 0
 95C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\internals\string-pad-webkit-bug.js121436361000000000 0
@@ -921,7 +921,7 @@
 104C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\lmdb\prebuilds\darwin-x64\electron.abi99.glibc.node121436361000000000 0
 87C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\stable\string\trim-left.js121436361000000000 0
 91C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\features\symbol\unscopables.js121436361000000000 0
-63C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\icons.dfd7a6db.svg132947467952306924 0
+63C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\icons.dfd7a6db.svg132947513013695381 0
 77C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\yaml\dist\test-events.js121436361000000000 0
 91C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\modules\es.symbol.match-all.js121436361000000000 0
 65C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\lmdb\open.js121436361000000000 0
@@ -2705,7 +2705,7 @@
 72C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\is-number\README.md121436361000000000 0
 85C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\stable\symbol\key-for.js121436361000000000 0
 71C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\is-json\.npmignore130425903440000000 0
-63C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.f7626f62.css132947467952276296 0
+63C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.f7626f62.css132947513013473669 0
 86C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@parcel\optimizer-image\native.js121436361000000000 0
 87C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\cosmiconfig\dist\readFile.d.ts.map121436361000000000 0
 78C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\features\iterator132947465559438283 1
@@ -2771,7 +2771,7 @@
 84C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\features\error\index.js121436361000000000 0
 91C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\features\array\virtual\join.js121436361000000000 0
 78C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\htmlparser2\lib\Parser.js121436361000000000 0
-65C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\favicon.8b2f57bf.png132947467951996446 0
+65C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\favicon.8b2f57bf.png132947513013767310 0
 97C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\internals\document-create-element.js121436361000000000 0
 81C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\internals\perform.js121436361000000000 0
 83C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\htmlparser2\lib\Tokenizer.d.ts121436361000000000 0
@@ -5762,7 +5762,7 @@
 74C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\actual\symbol132947465566005553 1
 79C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\actual\typed-array132947465569102164 1
 76C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\actual\weak-map132947465526656862 1
-67C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.f7626f62.css.map132947467952275713 0
+67C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.f7626f62.css.map132947513013473669 0
 76C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\actual\weak-set132947465526706724 1
 85C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\actual\weak-map\index.js121436361000000000 0
 94C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\actual\url-search-params\index.js121436361000000000 0
@@ -6628,7 +6628,7 @@
 87C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\caniuse-lite\data\features\xhr2.js121436361000000000 0
 88C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\caniuse-lite\data\features\xhtml.js121436361000000000 0
 92C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\caniuse-lite\data\features\xhtmlsmil.js121436361000000000 0
-63C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\icons.21bad73c.svg132947467953156747 0
+63C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\icons.21bad73c.svg132947513014014562 0
 97C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\caniuse-lite\data\features\xml-serializer.js121436361000000000 0
 164C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm\source.js121436361000000000 0
 103C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js121436361000000000 0
@@ -7427,7 +7427,7 @@
 63C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.4648ef23.css132947461642421024 0
 62C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.b7883fbf.js132947461642430990 0
 66C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.b7883fbf.js.map132947461642513978 0
-62C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.e37f48ea.js132947475968325171 0
-66C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.e37f48ea.js.map132947475968356468 0
-55C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.html132947467952275713 0
-62C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\logo.726d37a8.png132947467952538417 0
+62C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.e37f48ea.js132947583959875296 0
+66C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.e37f48ea.js.map132947583959930277 0
+55C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.html132947513013709093 0
+62C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\logo.726d37a8.png132947513013529016 0
