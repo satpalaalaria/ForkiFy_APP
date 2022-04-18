@@ -2664,7 +2664,7 @@ class View {
       </div>
     `;
         this._clear();
-        this._parentElement.insertAdjacentHTML('afterbegin', markup);
+        this._parentElement?.insertAdjacentHTML('afterbegin', markup);
     }
 } // !.................................................................
 exports.default = View;
