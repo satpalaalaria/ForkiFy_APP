@@ -37,7 +37,7 @@
 98C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\caniuse-lite\data\features\rest-parameters.js121436361000000000 0
 88C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\actual\string\trim-right.js121436361000000000 0
 84C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\cosmiconfig\dist\loaders.js.map121436361000000000 0
-44C:\Users\navid\OneDrive\Desktop\ForkiFy\dist132947583960004941 1
+44C:\Users\navid\OneDrive\Desktop\ForkiFy\dist132947594922698290 1
 87C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\features\date\to-string.js121436361000000000 0
 79C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\full\symbol\for.js121436361000000000 0
 91C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\full\string\virtual\italics.js121436361000000000 0
@@ -308,7 +308,7 @@
 69C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\svgo\lib\xast.js121436361000000000 0
 90C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\css-tree\lib\syntax\node\Dimension.js121436361000000000 0
 106C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js121436361000000000 0
-66C:\Users\navid\OneDrive\Desktop\ForkiFy\src\js\views\recipeView.js132943209978069087 0
+66C:\Users\navid\OneDrive\Desktop\ForkiFy\src\js\views\recipeView.js132947594779223110 0
 58C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\clone132947465587444576 1
 90C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\full\array\find-last-index.js121436361000000000 0
 80C:\Users\navid\OneDrive\Desktop\ForkiFy\node_modules\core-js\stable\map\index.js121436361000000000 0
@@ -7427,7 +7427,7 @@
 63C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.4648ef23.css132947461642421024 0
 62C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.b7883fbf.js132947461642430990 0
 66C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.b7883fbf.js.map132947461642513978 0
-62C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.e37f48ea.js132947583959875296 0
-66C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.e37f48ea.js.map132947583959930277 0
+62C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.e37f48ea.js132947594922591540 0
+66C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.e37f48ea.js.map132947594922636590 0
 55C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\index.html132947513013709093 0
 62C:\Users\navid\OneDrive\Desktop\ForkiFy\dist\logo.726d37a8.png132947513013529016 0
